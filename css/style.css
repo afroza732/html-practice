@@ -1,0 +1,10 @@
+*{
+	margin:0;
+	padding:0;
+}
+.main_body{
+	width:800px;
+	height:700px;
+	background:#fof;
+	margin:0 auto;
+}

@@ -1,0 +1,87 @@
+*{
+	margin:0;
+	padding:0;
+}
+.mar_auto{
+	margin:0 auto;
+}
+.header_part{
+	width:720px;
+	height:100px;
+	background:#f00;
+}
+.body_part{
+	width:720px;
+	height:400px;
+	background:#00c;
+
+}
+.footer_part{
+	width:720px;
+	height:50px;
+	background:#aaa;
+
+}
+
+/* ===========2nd layout
+
+============= start=======*/
+
+.wapper{
+	width:720px;
+	height:800px;
+	background-color:#aaa;
+	margin:0 auto;
+}
+/* header start=====================*/
+.header{
+	width:720px;
+	height:100px;
+	background-color:#00c;
+}
+.header h2{
+	text-align:center;
+	color:red;
+	font-size:20px;
+	font-family:verdana;
+	line-height:100px;
+
+}
+.chn_head{
+	color:green;
+	font-size:50px;
+}
+.chn_lst{
+	color:#fff;
+	font-size:40px;
+}
+/* bdy_part start=====================*/
+.bdy_part{
+	width:720px;
+	height:650px;
+	background-color:#f0f;
+}
+.left_part{
+	width:100px;
+	height:650px;
+	background-color:#ff0;
+	float:left;
+}
+.center_part{
+	width:520px;
+	height:650px;
+	background-color:#aaa;
+	float:left;
+}
+.right_part{
+	width:100px;
+	height:650px;
+	background-color:#ff0;
+	float:right;
+}
+/* foot_prt start=====================*/
+.foot_prt{
+	width:720px;
+	height:50px;
+	background-color:#00c;
+}

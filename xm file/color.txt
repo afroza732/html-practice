@@ -1,0 +1,21 @@
+1.log0 -#24B5BA
+2.webpage-#24B5BA
+3.icon-"#24b5ba
+4.search bg-#24b5ba
+5.banner bg-=#aa0bd2
+6.content part-#aa0bd2"
+7. then bg-#10BF3C
+8.footer bg-=#FF0000
+
+
+
+height and width:
+logo height-100 width-40
+website-height-100
+table-height-100 width-200,td-height-50 width-200
+banner- height-220 width-900
+content td-height-300 width-900
+maincontent-height-300 width-900
+then-height-350 widt-900,only image height-350 width-300
+otherwise 350,225
+footer-30,900
